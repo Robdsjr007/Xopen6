@@ -29,9 +29,12 @@ Aplicativo mobile para controle de despesas pessoais, desenvolvido com **React N
 
 ## 📦 Estrutura
 
+```
 /expenses-app
-├── frontend/ # Aplicativo mobile
-└── backend/ # API Node.js
+├── frontend/       # Aplicativo React Native
+├── backend/        # API Node.js com Express
+
+```
 
 ## 🚧 Em desenvolvimento
 
