@@ -22,7 +22,9 @@ Aplicativo mobile para controle de despesas pessoais, desenvolvido com **React N
 **Back-end:**
 - Node.js + Express
 - TypeScript
-- MongoDB com Mongoose
+- postgreSQL com neon
+- uuid
+- bcrypt
 - JWT (autenticação)
 - ExcelJS (exportação de dados)
 - Multer (upload de extratos)
