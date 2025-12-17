@@ -13,11 +13,7 @@ Aplicativo mobile para controle de despesas pessoais, desenvolvido com **React N
 ## 🛠 Tecnologias
 
 **Front-end:**
-- React Native
-- TypeScript
-- React Navigation
-- Axios
-- ChartKit / Victory
+- Flutter
 
 **Back-end:**
 - Node.js + Express
